@@ -16,7 +16,7 @@
     "mongodb": "*",
     "monk": "*",
     "connect-flash": "*",
-    "express-validation": "*",
+    "express-validator": "*",
     "express-session": "*",
     "express-messages": "*",
     "multer": "*",
